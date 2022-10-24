@@ -11,7 +11,8 @@ I also have a tendency to overcomplicate things, especially when it comes to HTM
 
 ## Things I Learned
 
-![Screenshot](./assets/images/Screenshot.png)
+![Screenshot](./assets/images/Screenshot.png)!
+[Screenshot](./assets/images/Screenshot1.png)
 
 Basic semantics such as 
 
