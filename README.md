@@ -15,11 +15,11 @@ I also have a tendency to overcomplicate things, especially when it comes to HTM
 
 Basic semantics such as 
 
-'''
+```
 <nav>
 <article>
 <aside>
-'''
+```
 
 How to hide a footer.
 
@@ -27,5 +27,5 @@ Adapting the CSS code so it doesn’t repeat itself.
 
 ## Contact
 
-[Github Profile](https://github.com/LiamLJhoward/)
-[Email](mailto:liamljhoward@gmail.com)
+[Github Profile](https://github.com/LiamLJhoward/) // [Email](mailto:liamljhoward@gmail.com)
+
