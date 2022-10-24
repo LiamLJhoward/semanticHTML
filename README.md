@@ -11,9 +11,15 @@ I also have a tendency to overcomplicate things, especially when it comes to HTM
 
 ## Things I Learned
 
-![Screenshot](./assets/images/screenshot.png)ß
+![Screenshot](./assets/images/Screenshot.png)
 
-Basic semantics such as <nav>, <article>, and <aside>.
+Basic semantics such as 
+
+'''
+<nav>
+<article>
+<aside>
+'''
 
 How to hide a footer.
 
@@ -21,6 +27,5 @@ Adapting the CSS code so it doesn’t repeat itself.
 
 ## Contact
 
-[Github Profile] (https://github.com/LiamLJhoward)
-[Email] (liamljhoward@gmail.com)
-ß
+[Github Profile] (https://www.github.com/LiamLJhoward)
+[Email] (mailto:liamljhoward@gmail.com)
