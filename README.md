@@ -27,5 +27,5 @@ Adapting the CSS code so it doesn’t repeat itself.
 
 ## Contact
 
-[Github Profile] (https://www.github.com/LiamLJhoward)
-[Email] (mailto:liamljhoward@gmail.com)
+[Github Profile](https://github.com/LiamLJhoward/)
+[Email](mailto:liamljhoward@gmail.com)
